@@ -1,4 +1,4 @@
-<table id="ank-table">
+<table id="example" class="table table-striped table-bordered ank-table" style="width:100%">
     <thead>
         <tr>
             <th>Login ID</th>
